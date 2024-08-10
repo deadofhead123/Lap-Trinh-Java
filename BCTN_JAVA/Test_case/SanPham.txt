@@ -1,0 +1,4 @@
+SP011,Áo thể chất,Đỏ,Chiếc,354,55000.0
+SP012,Quần thể chất,Vàng,Chiếc,126,45000.0
+SP013,Áo khoác trường,Xanh đậm,Chiếc,228,85000.0
+SP014,Mũ lưỡi trai,Xanh,Chiếc,479,36000.0

@@ -1,0 +1,5 @@
+SP7,Áo rét dày,Chống đạn,Cái,110,300000.0
+SP5,Áo đặc công,Chống đạn,Cái,1100,300000.0
+SP3,Quần thể chất,Xanh,Chiếc,986905,55000.0
+SP2,Áo thể chất,Đen,Chiếc,651,35000.0
+SP1,Mũ lưỡi trai,Trắng,Chiếc,3367,25000.0
